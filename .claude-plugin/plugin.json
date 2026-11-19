@@ -1,0 +1,11 @@
+{
+  "name": "space-theme",
+  "version": "0.1.0",
+  "description": "Dark space look: a Milky Way band, twinkling stars, shooting stars and a small solar system behind the conversation.",
+  "author": {
+    "name": "ThanhPham2611",
+    "url": "https://github.com/ThanhPham2611"
+  },
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-code-mod", "claude-code-plugin", "theme", "space"]
+}

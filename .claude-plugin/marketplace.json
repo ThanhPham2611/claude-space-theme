@@ -1,0 +1,16 @@
+{
+  "name": "claude-space-theme",
+  "metadata": {
+    "description": "Space Theme: theme vũ trụ chỉ chế độ tối cho Claude Code, với dải ngân hà, sao lấp lánh, sao băng và hệ mặt trời."
+  },
+  "owner": {
+    "name": "ThanhPham2611"
+  },
+  "plugins": [
+    {
+      "name": "space-theme",
+      "source": "./",
+      "description": "Theme vũ trụ chỉ chế độ tối cho Claude Code: dải ngân hà, sao lấp lánh, sao băng và một hệ mặt trời nhỏ phía sau cuộc trò chuyện."
+    }
+  ]
+}
